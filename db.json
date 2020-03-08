@@ -1,10 +1,13 @@
 {
   "posts": [
     {
-  "name":"Mauro",
-  "appellido":"longhi",
-  "dni":"36616",
-  "telefono":"223",
+      "name":"Mauro",
+      "appellido":"longhi",
+      "dni":"36616",
+      "telefono":"223",
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
